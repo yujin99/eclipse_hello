@@ -5,7 +5,7 @@ public class Information {
 		System.out.println("Computer SW");
 		System.out.println("Wonkwang Univ.");
 		System.out.println("Han Yujin");
-	
+		System.out.println("20183293");
 	}
 
 }
